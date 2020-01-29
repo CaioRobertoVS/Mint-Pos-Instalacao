@@ -30,9 +30,9 @@
 
     ### pacotes snaps ###
 
-        sudo snap install code --classic -y
+        sudo snap install code --classic
 
-        sudo snap install retroarch -y
+        sudo snap install retroarch
 
 ## atualizando sistema ##
 
