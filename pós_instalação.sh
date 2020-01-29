@@ -20,7 +20,7 @@
 
     ## pacotes deb ##
 
-        sudo dpkg -i *.deb -y
+        sudo dpkg -i *.deb
 
     ### apt ###
 
